@@ -1,5 +1,10 @@
 # The Impartial Machines Project
 
+# Vision
+We are working with the community to help deliver a Dual AI Engine which tries to eliminate the potential influences/bias in the news by the means of similarity indexing and version control and helps connect the dots in facilitating the dissemination of impartial news conforming to the highest code of ethics possible.
+
+We are working open because we believe that news should be non-influential to circumstances, operate independently from any bias/influences and prioritize the news based on the importance, free of any ulterior motives, validated by employing a proper community feedback loop. 
+
 In the rapidly expanding Artificial Intelligence (AI) driven world, we can observe that AI is already making humongous decisions in our lives. Off late, we have reached arealization where we have understood that AI can work, &#39;as long as&#39; the input data is
 accurate and that decisions made by AI aren’t always right. &quot;When we blithely train algorithms on historical data, to a large extent we are setting ourselves up to merely repeat the past. We&#39;ll need to do more, which means examining the bias embedded in
 the data.” - Cathy O&#39;Neil.
