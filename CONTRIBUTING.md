@@ -1,6 +1,6 @@
 # Contributing to The Impartial Machines Project
 
->Thank you for your interest in contributing to [Project] :tada:! 
+>Thank you for your interest in contributing to The Impartial Machines Project :tada:! 
 
 We are working with the community to help deliver a Dual AI Engine which tries to eliminate the potential influences/bias in the news by the means of similarity indexing and version control and helps connect the dots in facilitating the dissemination of impartial news conforming to the highest code of ethics possible.
 
