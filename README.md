@@ -30,7 +30,7 @@ With the latest updates in the field of Natural Language Processing, similarity 
 First, the text form of data has to be converted to some kind of vectors so that our algorithm can understand it. 
 For this there are say dictionaries like, for a given word there is already a vector generated. We need not reinvent the wheel. GLOVE, tf-idf, word2vec, etc., We need to first identify which model better suits us. We feel BERT Model (Google’s NLP Open Sourced Model) will best suit us. 
 
-Once the vectors are formed, we have to check the similarity. For this here are many techniques. But, the underlying math is very simple across them. For Example, imagine a X-Y Axis Graph. Draw a two straight lines form origin with an angle between them. Here Line 1 is Vector A, Line 2 is Vector B.(Actually we need to plot the vectors generated from the previous step). If the angle is too low then they are very similar and vice-versa. That angle between them is Cosine, and this method is called Cosine Similarity.
+Once the vectors are formed, we have to check the similarity. For this here are many techniques. But, the underlying math is very simple across them. For Example, imagine a X-Y Axis Graph. Draw two straight lines form origin with an angle (theta) between them. Here Line 1 is Vector A, Line 2 is Vector B.(Actually we need to plot the vectors generated from the previous step). If the angle is too low then they are very similar and vice-versa. If that angle between them is considered as Cosine then his method is called Cosine Similarity.
 
 ## Contributing
 
