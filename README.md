@@ -1,5 +1,8 @@
 # The Impartial Machines Project
 
+#Issue
+https://github.com/MozillaFestival/open-leaders-7/issues/21
+
 # Vision
 We are working with the community to help deliver a Dual AI Engine which tries to eliminate the potential influences/bias in the news by the means of similarity indexing and version control and helps connect the dots in facilitating the dissemination of impartial news conforming to the highest code of ethics possible.
 
