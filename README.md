@@ -1,6 +1,6 @@
 # The Impartial Machines Project
 
-#Issue
+# Issue
 https://github.com/MozillaFestival/open-leaders-7/issues/21
 
 # Vision
