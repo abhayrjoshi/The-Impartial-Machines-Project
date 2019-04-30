@@ -19,7 +19,7 @@ We use Python 3X Version only.
 
     $ python summary.py
 
-Now, we get the news summary on one article, which we have defined in sumarry.py
+Now, we get the news summary of one article, which we have defined in sumarry.py
 
 ## Method
 
