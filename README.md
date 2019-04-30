@@ -37,7 +37,7 @@ Once the vectors are formed, we have to check the similarity. For this here are 
 
 ## Contributing
 
-Thanks for your interest in contributing to The Impartial Machines Project! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to The Impartial Machines Project! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md). Please check our issues in the repo and get started by contributing!
 
 ## Participation Guidelines
 
