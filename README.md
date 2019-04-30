@@ -41,5 +41,5 @@ Thanks for your interest in contributing to The Impartial Machines Project! Ther
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to abhay.joshi.in@ieee.org.
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to abhay.joshi.in@ieee.org or ssai.thejeshwar.in@ieee.org.
 
